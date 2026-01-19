@@ -1,0 +1,10 @@
+virtual_service:
+  target_name: "backend-vs-t1r_1000-1"
+
+task:
+  payload:
+    enabled: false
+
+validation:
+  pre_enabled: true
+  post_enabled: false
