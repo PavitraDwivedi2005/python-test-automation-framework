@@ -1,8 +1,8 @@
 base_url: "https://semantic-brandea-banao-dc049ed0.koyeb.app"
 
 credentials:
-  username: "admin"
-  password: "password"
+  username: "yourusername"
+  password: "yourpassword"
 
 auth:
   login_endpoint: "/login"
